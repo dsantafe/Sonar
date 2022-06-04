@@ -1,0 +1,1 @@
+ 2csXhr@Sonar/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
